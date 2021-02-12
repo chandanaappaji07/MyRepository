@@ -4,4 +4,8 @@ public class Xyz
 	{
 		System.out.println("exerybody");
 	}
+	public void test()
+	{
+		System.out.println("Testing");
+	}
 }
